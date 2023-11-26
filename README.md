@@ -1,4 +1,11 @@
-### Hi there 👋
+### Bakharev Artem (Full-stack Developer)
+
+Hi, there! 👋
+ - 🔎 I'm searching for a Scala job. Check my CV: https://github.com/mrThomasTeller/cv
+ - 👨🏻‍💻 3 years in Full-stack dev (C#, PHP, MySQL, PostgreSQL)
+ - 🖥️ 10 years in Front-end dev (TypeScript, React, Redux Toolkit, WebPack, Docker)
+ - ❤️ love functional programming, beautiful program design and clean code
+ - 🎨 like science and modern art
 
 <!--
 **mrThomasTeller/mrThomasTeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
