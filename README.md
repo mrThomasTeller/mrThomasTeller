@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Bakharev Artem, Full-stack Developer
+### 👋 Hi there! I'm Artem, Full-stack Developer
 
  - 🔎 I'm searching for a Scala job. Check my CV: https://github.com/mrThomasTeller/cv
  - 👨🏻‍💻 3 years in Full-stack dev (C#, PHP, MySQL, PostgreSQL)
