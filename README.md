@@ -1,8 +1,7 @@
-### 👋 Hi there! I'm Artem, Full-stack Developer
+### 👋 Hi there! I'm Artem, Front-End Developer
 
- - 🔎 I'm searching for a Scala job. Check my CV: https://github.com/mrThomasTeller/cv
- - 👨🏻‍💻 3 years in Full-stack dev (C#, PHP, MySQL, PostgreSQL)
- - 🖥️ 10 years in Front-end dev (TypeScript, React, Redux Toolkit, WebPack, Docker)
+ - 🔎 I'm searching for a Front-End or Full-Stack job. Check my CV: https://github.com/mrThomasTeller/cv
+ - 🖥️ 12 years in Front-end dev (TypeScript, React, Redux Toolkit, WebPack, Docker)
  - ❤️ love functional programming, beautiful program design and clean code
  - 🎨 like science and modern art
 
