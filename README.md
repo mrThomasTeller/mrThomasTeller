@@ -1,7 +1,7 @@
-### 👋 Hi there! I'm Artem, Front-End Developer
+### 👋 Hi there! I'm Artem, TypeScript Full-stack Developer
 
- - 🔎 I'm searching for a Front-End or Full-Stack job. Check my CV: https://github.com/mrThomasTeller/cv
- - 🖥️ 12 years in Front-end dev (TypeScript, React, Redux Toolkit, WebPack, Docker)
+ - 🖥️ 13 years in Full-stack dev (TypeScript, NextJS, React, Redux Toolkit, WebPack, Docker)
+ - 📚 3 years as a Full-stack teacher and mentor 
  - ❤️ love functional programming, beautiful program design and clean code
  - 🎨 like science and modern art
 
