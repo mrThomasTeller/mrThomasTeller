@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Artem, TypeScript Full-stack Developer
 
- - 🖥️ 13 years in Full-stack dev (TypeScript, NextJS, React, Redux Toolkit, WebPack, Docker)
+ - 🖥️ 12 years in Front-end dev, 3 yeras in Full-stack dev (TypeScript, NextJS, React, Redux Toolkit, WebPack, Docker)
  - 📚 3 years as a Full-stack teacher and mentor 
  - ❤️ love functional programming, beautiful program design and clean code
  - 🎨 like science and modern art
